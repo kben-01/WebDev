@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+   
+  }
+  
+  .box {
+    background-color: red;
+    color: white;
+    height: 500px;
+    width: 500px;
+    border: solid black 1px;
+    font-size: 80px;
+    border-radius: 20px;
+    text-align: center;
+  }
+  
+  .name {
+    background-color: white;
+    height: 100px;
+    width: 300px;
+    padding: 100px;
+    margin-top; 30px;
+    margin-right: 10px;
+    font-size: 80px;
+    color: black;
+    
+  }
+  
+  .mni {
+   font-size: 30px;
+  }
